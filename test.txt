@@ -1,0 +1,2 @@
+Hi there Lambda Squared!
+Haskell seems really scary, but it's just misunderstood.
